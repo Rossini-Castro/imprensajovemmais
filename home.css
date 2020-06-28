@@ -23,7 +23,7 @@ text-align: right;  font-size: 2em;
 
 }
 nav{display: grid;
-  grid-template-columns:1fr 1fr 1fr 1fr 1fr  1fr 1fr 1fr;
+  grid-template-columns:1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
 }
 nav > a {
   border-bottom: 4px solid #bbb;
