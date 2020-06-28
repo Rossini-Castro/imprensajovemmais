@@ -70,6 +70,16 @@ a:hover {
   margin-bottom: 20px;
   padding: 22px;
 }
+.exposicoes {  background-color: #eee;
+  border: 2px solid #bbb;
+  padding: 18px;
+  align-self: flex-start;border: 2px solid #ccc;
+  margin-bottom: 20px;
+  padding: 22px;}
+  ul.none {
+	list-style-type: none;
+	}
+
 
 h2 {
   color: #424242;border-bottom: 1px solid #ccc;
