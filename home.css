@@ -177,6 +177,7 @@ footer {
 small {
   border-radius: 10px;
   display: inline-block;
+	background-image:url("celebracao95.png");
   background-color: blue;
   color: white;
   font-size: 22px;
