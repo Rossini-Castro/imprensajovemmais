@@ -166,7 +166,7 @@ address {
   font-style: italic;
 }
 
-footer {background-image: url("hmevento.png")
+footer {background-image: url("hmevento.png");
   background-color: #424242;
   display: flex;
   align-items: left;
@@ -180,7 +180,7 @@ small {
   background-color: blue;
   color: white;
   font-size: 5px;
-  padding: 5px 6px;
+  padding: 4px 6px;
   text-align:left;
 }
 
