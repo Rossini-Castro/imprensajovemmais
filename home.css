@@ -115,6 +115,16 @@ h5 {
   margin-right: 0;
   font-weight: normal;
 }
+h6 { 
+  display: block;
+  font-size: .67em;
+  margin-top: 2.33em;
+  margin-bottom: 2.33em;
+  margin-left: 0;
+  margin-right: 0;
+  font-weight: normal;
+}
+
 
 p {
   font-size: 20px;
@@ -187,7 +197,7 @@ small {
 
 footer > small {
   color: #fff;
-  font-size: 14px;
+  font-size: 7px;
 }
 
 footer > small a {
