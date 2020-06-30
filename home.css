@@ -166,22 +166,21 @@ address {
   font-style: italic;
 }
 
-footer {
+footer {background-image: url("hmevento.png")
   background-color: #424242;
   display: flex;
-  align-items: center;
-  justify-content: center;
+  align-items: left;
+  justify-content: left;
   height: 160px;
   margin-top: 24px;
 }
 small {
   border-radius: 10px;
   display: inline-block;
-	background-image:url("celebracao95.png");
   background-color: blue;
   color: white;
-  font-size: 22px;
-  padding: 10px 12px;
+  font-size: 5px;
+  padding: 5px 6px;
   text-align:left;
 }
 
