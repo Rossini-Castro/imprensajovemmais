@@ -169,8 +169,8 @@ address {
 footer {background-image: url("hmevento.png");
   background-color: #424242;
   display: flex;
-  align-items: left;
-  justify-content: left;
+  align-items: right;
+  justify-content: right;
   height: 160px;
   margin-top: 24px;
 }
@@ -179,9 +179,9 @@ small {
   display: inline-block;
   background-color: blue;
   color: white;
-  font-size: 5px;
-  padding: 4px 6px;
-  text-align:left;
+  font-size: 2px;
+  padding: 2px 3px;
+  text-align:right;
 }
 
 
