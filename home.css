@@ -2,10 +2,8 @@ html * {
   box-sizing: border-box;
 }
   body {background-color: #1AAB5B;
-    font-family: 'Cuprum', sans-serif;
-
-    font-family: 'Oxygen', sans-serif;
-    padding: 0px;}
+    font-family: 'Cuprum', sans-serif;padding: 0px;
+}
 
 img {  box-shadow: 4px 4px 4px #424242; /* horizontal, vertial, blur, cor */
   margin: 24px auto;
@@ -129,7 +127,7 @@ h6 {
   margin-bottom: 2.33em;
   margin-left: 0;
   margin-right: 0;
-  font-weight: normal;
+  font-weight: normal;  font-family: 'Oxygen', sans-serif;   
 }
 blockquote {
   display: block;
