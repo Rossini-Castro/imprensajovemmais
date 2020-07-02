@@ -131,7 +131,13 @@ h6 {
   margin-right: 0;
   font-weight: normal;
 }
-
+blockquote {
+  display: block;
+  margin-top: 1em;
+  margin-bottom: 1em;
+  margin-left: 40px;
+  margin-right: 40px;
+}
 
 p {
   font-size: 20px;
