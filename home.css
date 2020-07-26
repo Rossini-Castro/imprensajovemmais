@@ -1,7 +1,7 @@
 html * {
   box-sizing: border-box;
 }
-  body {background-color: #1AAB5B;
+  body {background-color: #0000FF;
     font-family: 'Cuprum', sans-serif;padding: 0px;
 }
 
@@ -40,7 +40,7 @@ nav > a:hover {
   border-bottom: 4px solid black;}
 
 a {
-  background-color: orange;
+  background-color: #FFFF00;
   box-shadow: 1px 1px 2px #424242;
   color: #000;
   display: inline-block;
@@ -52,7 +52,7 @@ a {
 }
 a:hover {
   background-color: #000;
-  color: orange;
+  color: #FFFF00;
 }
 #caixa {
   display: grid;
@@ -144,7 +144,7 @@ p {
 }
 
   p > a {
-  color: orange;
+  color: #FFFF00;
   font-size: 20px;
   font-weight: 600;
   letter-spacing: 1px;
@@ -154,7 +154,7 @@ p > a:hover {
 }
 
 p > span {
-  background-color: orange;
+  background-color: #FFFF00;
   padding: 0 4px;
 }
 
@@ -212,7 +212,7 @@ footer > small {
 }
 
 footer > small a {
-  color: orange;
+  color: #FFFF00;
   text-decoration: none;
 }
 
