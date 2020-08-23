@@ -5,8 +5,8 @@ html * {
     font-family: 'Cuprum', sans-serif;padding: 0px;
 }
 
-img {  box-shadow: 4px 4px 4px #424242; /* horizontal, vertial, blur, cor */
-  margin: 24px auto;
+img {  box-shadow: 4px 4px 4px #59A8D9; /* horizontal, vertial, blur, cor */
+  margin: 24px auto; 
   max-width: 100%;
   max-width: 100%;
 }
@@ -17,14 +17,14 @@ h1{
   background-size: cover;
 text-align: right;  font-size: 2em;
   padding: 140px 140px;
-  text-shadow: 6px 6px #FF1493;
+  text-shadow: 6px 6px #BFCDD9;
 
 }
 nav{display: grid;
-  grid-template-columns:1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+  grid-template-columns:1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
 }
 nav > a {
-  border-bottom: 4px solid #bbb;
+  border-bottom: 4px solid #BFCDD9;
   color: #424242;
   font-size: 20px;
   padding: 3px 5px;
@@ -40,8 +40,8 @@ nav > a:hover {
   border-bottom: 4px solid black;}
 
 a {
-  background-color: #FFFF00;
-  box-shadow: 1px 1px 2px #424242;
+  background-color: #4E98D9;
+  box-shadow: 1px 1px 2px #BFCDD9;
   color: #000;
   display: inline-block;
   font-weight: 700;
@@ -52,24 +52,24 @@ a {
 }
 a:hover {
   background-color: #000;
-  color: #FFFF00;
+  color: #BFCDD9;
 }
 #caixa {
   display: grid;
-  grid-template-columns: 2, 1fr;
+  grid-template-columns: 1, 1fr;
   grid-gap: 20px;
 }
 
 .cartao {
-  background-color: #eee;
-  border: 2px solid #bbb;
+  background-color: #BFCDD9;
+  border: 2px solid #182540;
   padding: 18px;
   align-self: flex-start;border: 2px solid #ccc;
   margin-bottom: 20px;
   padding: 22px;
 }
-.exposicoes {  background-color: #eee;
-  border: 2px solid #bbb;
+.exposicoes {  background-color:#4E98D9;
+  border: 2px solid #BFCDD9;
   padding: 18px;
   align-self: flex-start;border: 2px solid #ccc;
   margin-bottom: 20px;
@@ -80,8 +80,8 @@ a:hover {
 
 
 h2 {
-  color: #424242;border-bottom: 1px solid #ccc;
-  color: #424242;
+  color: #182540;border-bottom: 1px solid #ccc;
+  color: #182540;
   margin-bottom: 22px;
   display: block;
   font-size: 1.5em;
@@ -154,7 +154,7 @@ p > a:hover {
 }
 
 p > span {
-  background-color: #FFFF00;
+  background-color: #BFCDD9;
   padding: 0 4px;
 }
 
@@ -163,7 +163,7 @@ p > span {
 
 
 a {
-  background-color: #AB7109;
+  background-color: #BFCDD9;
   border-radius: 8px;
   color:white;
   display: inline-block;
@@ -173,7 +173,7 @@ a {
 }
 #caixa {
   display: grid;
-  grid-template-columns: 1fr 1fr;
+  grid-template-columns: 1fr;
   grid-gap: 20px;
 }
 .cartao {
@@ -188,7 +188,7 @@ address {
 }
 
 footer {background-image: url("footer.png");
-  background-color: #424242;
+  background-color:#59A8D9;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -198,8 +198,8 @@ footer {background-image: url("footer.png");
 small {
   border-radius: 10px;
   display: inline-block;
-  background-color: blue;
-  color: white;
+  background-color:#27538C;
+  color:#BFCDD9;
   font-size: 5px;
   padding: 2px 3px;
   text-align:center;
@@ -212,7 +212,7 @@ footer > small {
 }
 
 footer > small a {
-  color: #FFFF00;
+  color: #BFCDD9;
   text-decoration: none;
 }
 
