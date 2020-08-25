@@ -7,8 +7,7 @@ html * {
 
 img {  box-shadow: 4px 4px 4px #59A8D9; /* horizontal, vertial, blur, cor */
   margin: 24px auto; 
-  max-width: 100%;
-  max-width: 100%;
+  max-width: 80%; 
 }
 h1{
   background-image: url("Design sem nome(8).png");
