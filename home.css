@@ -61,12 +61,14 @@ a:hover {
 }
 
 .cartao {
-  background-color: #BFCDD9;
-  border: 2px solid #182540;
-  padding: 18px;
-  align-self: flex-start;border: 2px solid #ccc;
-  margin-bottom: 20px;
-  padding: 22px;
+background-color: #BFCDD9;
+width: 400px;
+margin: 0 28px;
+border-radius: 8px;
+border: 2px solid #182540;
+align-self: flex-start;border: 2px solid #ccc;
+margin-bottom: 20px;
+padding: 22px;
 }
 .exposicoes {  background-color:#4E98D9;
   border: 2px solid #BFCDD9;
