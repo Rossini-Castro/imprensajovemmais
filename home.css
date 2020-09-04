@@ -23,7 +23,7 @@ nav{display: grid;
   grid-template-columns:1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
 }
 nav > a {
-  border-bottom: 4px solid #BFCDD9;
+  border-bottom: 4px solid #595959;
   color: #424242;
   font-size: 20px;
   padding: 3px 5px;
@@ -32,14 +32,14 @@ nav > a {
   transition: all 0.3s; /* permite transições mais suaves de estados */
 }
 nav > a:hover {
-  background-color:#41594B;
+  background-color:#8C8C8C;
   border-bottom: 4px solid black;
 }
 .local{  background-color:blue;
   border-bottom: 4px solid black;}
 
 a {
-  background-color: #4E98D9;
+  background-color: #0D0D0D;
   box-shadow: 1px 1px 2px #BFCDD9;
   color: #000;
   display: inline-block;
