@@ -1,12 +1,12 @@
 html * {
   box-sizing: border-box;
 }
-  body {background-color: #0D0D0D;
+  body {background-color: #F2F2F2;
     font-family: 'Cuprum', sans-serif;padding: 0px;
 }
 
 img {  box-shadow: 4px 4px 4px #59A8D9; /* horizontal, vertial, blur, cor */
-  margin: 24px auto; 
+  margin: 24px auto; center;
   max-width: 80%; 
 }
 h1{
@@ -33,10 +33,10 @@ nav > a {
 }
 nav > a:hover {
   background-color:#8C8C8C;
-  border-bottom: 4px solid black;
+  border-bottom: 4px solid #0D0D0D;
 }
-.local{  background-color:blue;
-  border-bottom: 4px solid black;}
+.local{  background-color:#0A0EF0;
+  border-bottom: 4px solid #0D0D0D;}
 
 a {
   background-color: #0D0D0D;
@@ -50,7 +50,7 @@ a {
   transition: all 0.4s;
 }
 a:hover {
-  background-color: #000;
+  background-color: #7B84DB;
   color: #BFCDD9;
 }
 #caixa {
@@ -67,7 +67,7 @@ border-radius: 8px;
 border: 2px solid #182540;
 align-self: flex-start;border: 2px solid #ccc;
 margin-bottom: 20px;
-padding: 22px;
+padding: 22px;center;
 }
 .exposicoes {  background-color:#4E98D9;
   border: 2px solid #BFCDD9;
