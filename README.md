@@ -4,22 +4,16 @@ You can use the [editor on GitHub](https://github.com/Rossini-Castro/Mapinguari/
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### CIEJA PERUS I
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Imprensa Jovem Mais é um projeto educomunicativo do Centro Integrado de Educação de Jovens e Adultos Perus 1. Este projeto faz parte do programa “Nas Ondas do Rádio” da Secretaria Municipal de Educação da cidade de São Paulo. São objetivos gerais do programa “Nas Ondas do Rádio”: Promover o protagonismo de jovens e adultos por meio das tecnologias da informação e da comunicação; Contribuir para o desenvolvimento da competência leitora e escritora e das expressões comunicativas dos alunos; - Possibilitar o desenvolvimento da expressão comunicativa; - Contribuir para a integração entre professores, alunos e comunidade. O projeto de educomunicação Imprensa Jovem + é composto por uma web rádio: imprensajovemmais.com  (Rádio Cieja Perus); um blog: ACONTECIEJA; um INSTAGRAM: ImprensaJovem +  e uma página no facebook: imprensajovem+
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+# OFICINAS
+## PROJETOS
+### REDES SOCIAIS
 
-1. Numbered
-2. List
 
 **Bold** and _Italic_ and `Code` text
 
